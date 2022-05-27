@@ -1,0 +1,9 @@
+---
+layout: post
+title: "This is a trial post"
+date: 2022-05-27 12:27:11 +0200
+categories: trial_scripts
+bestTool: Ruby
+---
+
+I hope you can see this. This is the first attempt to learn Jekyll! This is the first time I have used {{page.bestTool}} language.
