@@ -1,16 +1,16 @@
 # Site settings
-name: name
+name: Comnets
 email: email
 url: url
 description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+author: "Comnets"
+title: "IoT-Lab"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: ComNets-Bremen
 
 twitter:
-  username: username
+  username: ComNetsBremen
