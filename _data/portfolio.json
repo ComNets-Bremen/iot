@@ -10,14 +10,35 @@
         ]
     },
     {
+        "name": "Pietro Manzoni",
+        "link": "https://pmanzoni.github.io/",
+        "image": "assets/images/PM_photo.jpg",
+        "position": "Universitat Politècnica de València, SPAIN",
+        "description": "He received the master degree in Computer Science from the \"Università degli Studi\" of Milan, Italy, in 1989, and the PhD degree in Computer Science from the \"Politecnico di Milano\", Italy, in 1995. From November 1992 to February 1993 he did an internship at the Bellcore Labs, Red Bank, New Jersey, USA, and from February 1994 to November 1994 he was a visiting researcher at the ICSI (International Computer Science Institute) Berkeley, California, USA. He is full professor of computer engineering at the \"Universitat Politècnica de València\", Spain. He is the coordinator of the Computer Networks Research Group (GRC) and a senior member of the IEEE. His research activity is related to the use of Mobile Wireless Networks to the design of dynamic systems. He is currently working on solutions for the Internet of Things focusing on LPWAN-based networks, and Pub/Sub systems. He published more than 200 scientific papers in conferences and more than 90 papers in international journals.; his Google scholar H index is 49. He is part or has been part of various editorial boards and organizing committees of International journals and conferences",
+        "technologies": [
+            "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
+        ]
+    },
+    {
+        "name": "Fredrik Ahlgren",
+        "link": "",
+        "image": "assets/images/FA_photo.jpg",
+        "position": "PhD | Senior lecturer",
+        "description": "Fredrik Ahlgren is a Senior lecturer in Computer Science and Marine Engineering and he started his career in the Royal Swedish Navy in 2001, and have sailed as a Marine Engineering officer on fast attack crafts, corvettes and submarines. Fredrik has always had a very keen interest in computers and new technology, and after and during the PhD started the transition from mechanical/marine engineering to computer science, with the focus on applying machine learning to solve problems. In 2020 I was living in Vancouver and teaching marine engineering, IoT and data analysis for M.Sc students at University of British Columbia, NAME (Naval Architecture and Marine Engineering). Fredrik has previously been teaching in the Marine Engineering programme with focus on pumping technology course, hydromechanics and machinery systems. Previous research comprises of energy efficiency in shipping from the data perspective, using machine learning (ML) methods for energy predictions. The research is now focused on applied IoT. He is now the lead and project manager of the IoT-lab at Linnaeus University and has also been the course administrator for the summer course Applied Internet of Things both the summer of 2020, 2021 and 2022, comprising of hundreds of students from all over the world. Fredrik also teach M.Sc courses in Applied IoT, as well as introductory programming in Python, machine learning (web intelligence). Fredrik is living by the motto that it should be fun - and what he does not know is compensated by enthusiasm for the subject.",
+        "technologies": [
+            "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
+        ]
+    },
+    {
         "name": "Project One",
         "link": "",
         "image": "http://via.placeholder.com/480x320",
-        "date_added": "2017-06-09",
+        "position": "2017-06-09",
         "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
         "technologies": [
             "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
         ]
     }
+    
 ]
 }
