@@ -6,7 +6,7 @@ description: "A blog and a portfolio"
 author: "Comnets"
 title: "IoT - connect them all"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+# baseurl: 
 
 # social
 github:
