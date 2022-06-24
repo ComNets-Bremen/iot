@@ -1,10 +1,10 @@
 {
     "items": [{
-        "name": "Project One",
-        "link": "",
-        "image": "http://via.placeholder.com/480x320",
-        "date_added": "2017-06-09",
-        "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+        "name": "Marco Zennaro",
+        "link": "http://www.ictp.it/",
+        "image": "assets/images/MZ_photo.jpg",
+        "position": "PhD | Research Scientist | STI Unit | ICTP",
+        "description": "Marco Zennaro is a Research Scientist at the Abdus Salam International Centre for Theoretical Physics in Trieste, Italy, a Category I UNESCO Institute, where he coordinates the Science, Technology and Innovation Unit. He received his PhD from the KTH-Royal Institute of Technology, Stockholm, and his MSc degree in Electronic Engineering from the University of Trieste in Italy. His research interest is in ICT4D, the use of ICT for Development, and in particular he investigates the use of Internet of Things for Development (IoT4D). He acts as TinyML4D Chair and TinyML Academic Network Co-Chair, in the framework of the TinyMLEdu initiative. Over the years he has organized more than 30 training activities on IoT in Developing Countries. Marco is a Visiting Professor at Kobe Institute of Computing (KIC) in Kobe, Japan.",
         "technologies": [
             "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
         ]
