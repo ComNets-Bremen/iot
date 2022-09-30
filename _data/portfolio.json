@@ -3,7 +3,7 @@
     {
         "name": "Anna Förster",
         "link": "https://www.uni-bremen.de/comnets/people/personal-profiles/prof-dr-anna-foerster",
-        "image": "assets/images/AF_photo.jpg",
+        "image": "assets/images/anna_1.png",
         "position": "PhD | Comnets | Prof. at University of Bremen",
         "description": "Anna Förster obtained her MSc degree in computer science and aerospace engineering from the Free University of Berlin, Germany, in 2004 and her PhD degree in self-organising sensor networks from the University of Lugano, Switzerland, in 2009. She also worked as a junior business consultant for McKinsey&Company, Berlin, between 2004 and 2005. From 2010 to 2014, she was a researcher and lecturer at SUPSI (the University of Applied Sciences of Southern Switzerland). Since 2015, she leads the Sustainable Communication Networks group at the University of Bremen. Her main research interests lie in self-organising and autonomous sensor, opportunistic networks and underground sensor networks. She applies various artificial intelligence techniques, like machine learning and swarm intelligence, to various aspects of wireless communication protocols and applications. One important aspect of her research are practical applications, which contribute to the global achievement of the Sustainable Development Goals. Such applications include decision agriculture, environmental monitoring, safety monitoring, health applications, and many more. Furthermore, she is very interested in usability of internet of things applications to increase their impact and usefulness. ",
         "technologies": [
