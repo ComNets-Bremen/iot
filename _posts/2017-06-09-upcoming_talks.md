@@ -4,10 +4,40 @@ title: "List of Upcoming Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
 
-List of all the upcoming talks:
 
-- 01/09/22: Talk 1
-- 06/10/22: Talk 2
+Talk - Title, Speaker
+--
+*Date:* 01/12/2022
+
+**Abstract:**
+xyz
+
+**About Speaker:**
+The bio of Speaker
+
+---
+
+Talk - Title, Speaker
+--
+*Date:* 05/01/2023
+
+**Abstract:**
+xyz
+
+**About Speaker:**
+The bio of Speaker
+
+---
+
+Talk - Title, Speaker
+--
+*Date:* DD/MM/YYYY
+
+**Abstract:**
+xyz
+
+**About Speaker:**
+The bio of Speaker
 
 <!-- - 03/11/22: Talk 3
 - 01/12/22: Talk 4
