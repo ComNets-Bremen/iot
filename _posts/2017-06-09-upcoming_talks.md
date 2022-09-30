@@ -15,7 +15,7 @@ xyz
 **About Speaker:**
 The bio of Speaker
 
-<a href="https://www.youtube.com/watch?v=xko5jLTjLb0&ab_channel=ComNetsBremen" target="_blank">*Click here for streaming*</a>
+<a href="https://www.youtube.com/watch?v=xko5jLTjLb0&ab_channel=ComNetsBremen" target="_blank">*Click here to stream*</a>
 
 ---
 
