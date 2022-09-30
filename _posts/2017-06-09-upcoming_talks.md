@@ -5,7 +5,7 @@ date: 2017-06-09 12:00:00 -0500
 ---
 
 
-Talk - Title, Speaker
+Speaker - Title
 --
 *Date:* 01/12/2022
 
@@ -17,7 +17,7 @@ The bio of Speaker
 
 ---
 
-Talk - Title, Speaker
+Speaker - Title
 --
 *Date:* 05/01/2023
 
@@ -29,7 +29,7 @@ The bio of Speaker
 
 ---
 
-Talk - Title, Speaker
+Speaker - Title
 --
 *Date:* DD/MM/YYYY
 
