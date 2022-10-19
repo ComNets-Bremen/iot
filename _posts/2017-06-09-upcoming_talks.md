@@ -5,41 +5,42 @@ date: 2017-06-09 12:00:00 -0500
 ---
 
 
-Speaker - Title
+Florian Loitsch - 
 --
 *Date:* 03/11/2022
 
 **Abstract:**
-xyz
+
 
 **About Speaker:**
-The bio of Speaker
+
 
 <a href="https://www.youtube.com/watch?v=xko5jLTjLb0&ab_channel=ComNetsBremen" target="_blank">*Click here to stream*</a>
 
 ---
 
-Speaker - Title
+Dirk Pesch - 
 --
-*Date:* 01/12/2022
+*Date:* 05/01/2023
 
 **Abstract:**
-xyz
+
 
 **About Speaker:**
-The bio of Speaker
+
 
 ---
 
-Speaker - Title
+Carlo Boano - 
 --
-*Date:* DD/MM/YYYY
+*Date:* 02/03/2023
 
 **Abstract:**
-xyz
+
 
 **About Speaker:**
-The bio of Speaker
+
+
 
 <!-- - 03/11/22: Talk 3
 - 01/12/22: Talk 4
