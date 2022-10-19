@@ -9,11 +9,6 @@ Florian Loitsch -
 --
 *Date:* 03/11/2022
 
-**Abstract:**
-
-
-**About Speaker:**
-
 
 <a href="https://www.youtube.com/watch?v=xko5jLTjLb0&ab_channel=ComNetsBremen" target="_blank">*Click here to stream*</a>
 
@@ -23,11 +18,6 @@ Dirk Pesch -
 --
 *Date:* 05/01/2023
 
-**Abstract:**
-
-
-**About Speaker:**
-
 
 ---
 
@@ -35,10 +25,10 @@ Carlo Boano -
 --
 *Date:* 02/03/2023
 
-**Abstract:**
+<!-- **Abstract:**
 
 
-**About Speaker:**
+**About Speaker:** -->
 
 
 
