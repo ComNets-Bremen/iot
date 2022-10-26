@@ -9,7 +9,7 @@ Florian Loitsch - Toit, a modern framework for IoT
 --
 Nov 03, 2022
 
-**About topic:**
+**About Topic:**
 Modern microcontrollers, like the ESP32, are more powerful than the first Unix machines. Despite their
 speed, they are still treated like 8-bit microcontrollers from the 90s: by flashing monolithic applications on them.
 Individual components have no protections from each other, and the development process is brittle, since
@@ -24,6 +24,13 @@ Florian Loitsch did his PhD in compiler technologies, compiling Scheme to JavaSc
 
 ---
 
+Samo Grasic
+--
+Dec 01, 2022
+
+
+---
+
 Dirk Pesch 
 --
 Jan 05, 2023
@@ -35,7 +42,7 @@ Pietro Manzoni - AIoT for environmental Intelligence
 --
 Feb 02, 2023
 
-**About topic:**
+**About Topic:**
 Environmental Intelligence refers to using digital technologies to gain insight into our impact on the environment and develop strategies to mitigate or reverse the effects of climate change. The talk will provide insights related to the applications of AIoT for environmental intelligence, focusing on data collection. It will show the approach and some of the results from research activities related to monitoring a natural lagoon in the southern part of Spain, namely the Mar Menor lagoon (Murcia, Spain). This ecosystem supports many human activities encompassing tourism, agriculture, fishing, and mining, leading to its deterioration. The project's overall objective was to develop cross-cutting and green technology for modeling and predicting socio-environmental processes across different temporal and spatial scales. We wanted to achieve this through a digital twin strategy that allows researchers, stakeholders, and policy-makers to collect data cost-effectively and create more precise models and predictions to support better decision-making.
 
 **About Speaker:**
