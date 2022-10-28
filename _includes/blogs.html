@@ -5,6 +5,8 @@
                 <p style="font-size: 2vw; border: 2px solid rgb(153, 36, 36); text-align: center;">
                     <a href="https://www.youtube.com/watch?v=xko5jLTjLb0&ab_channel=ComNetsBremen" target="_blank">Click here to join the stream now!</a></p>
                     <p><br></p>
+                    <p style="font-size:2vw; text-align:center; color: brown;">Next talk: Nov 03, 2022 | 4:00 PM CET</p>
+                    <p><br></p>
                 {% for post in site.posts %}
                 <div class="box">
                     <article class="media">
@@ -12,7 +14,7 @@
                             <div class="content">
                                 <a href="{{ post.url | relative_url }}">
                                     <p class="title is-2">{{post.title}} <span class="tag is-white is-pulled-right"></span></p>
-                                    <p class="subtitle"><small>{{post.excerpt | remove: '<p>' | remove: '</p>'}}</small></p>
+                                    <!-- <p class="subtitle"><small>{{post.excerpt | remove: '<p>' | remove: '</p>'}}</small></p> -->
                                 </a>
                             </div>
                         </div>

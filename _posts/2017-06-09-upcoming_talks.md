@@ -7,7 +7,7 @@ date: 2017-06-09 12:00:00 -0500
 
 Florian Loitsch - Toit, a modern framework for IoT
 --
-Nov 03, 2022
+Nov 03, 2022 | 4:00 PM CET
 
 **About Topic:**
 Modern microcontrollers, like the ESP32, are more powerful than the first Unix machines. Despite their
@@ -26,7 +26,7 @@ Florian Loitsch did his PhD in compiler technologies, compiling Scheme to JavaSc
 
 Samo Grasic - IoT in extreme conditions and DTN
 --
-Dec 01, 2022
+Dec 01, 2022 | 4:00 PM CET
 
 
 <!-- ---
@@ -40,7 +40,7 @@ Jan 05, 2023 -->
 
 Pietro Manzoni - AIoT for environmental Intelligence
 --
-Feb 02, 2023
+Feb 02, 2023 | 4:00 PM CET
 
 **About Topic:**
 Environmental Intelligence refers to using digital technologies to gain insight into our impact on the environment and develop strategies to mitigate or reverse the effects of climate change. The talk will provide insights related to the applications of AIoT for environmental intelligence, focusing on data collection. It will show the approach and some of the results from research activities related to monitoring a natural lagoon in the southern part of Spain, namely the Mar Menor lagoon (Murcia, Spain). This ecosystem supports many human activities encompassing tourism, agriculture, fishing, and mining, leading to its deterioration. The project's overall objective was to develop cross-cutting and green technology for modeling and predicting socio-environmental processes across different temporal and spatial scales. We wanted to achieve this through a digital twin strategy that allows researchers, stakeholders, and policy-makers to collect data cost-effectively and create more precise models and predictions to support better decision-making.
@@ -52,7 +52,7 @@ He received the master degree in Computer Science from the "Università degli S
 
 Carlo Boano - The IoT and the two sides of Sustainability
 --
-Mar 02, 2023
+Mar 02, 2023 | 4:00 PM CET
 
 **About Topic:**
 IoT systems are often portrayed as a key driver for sustainability and as an essential technology to achieve many of the seventeen United Nations' sustainable development goals by 2030. Among others, IoT systems can help improving health and well-being, building smart cities, promoting a responsible production and consumption, increasing awareness and visibility into energy and resource usage, as well as facilitating access to clean energy. At the same time, sustainability is often not a concern during the design of an IoT system: several IoT gadgets are unnecessary, many IoT products become quickly obsolete, and poorly-performing IoT devices are quickly dismissed. As a result, IoT hardware often ends up as e-waste into landfill after a very short lifespan, which is worrying considering the magnitude of IoT devices expected in the next decade. In this talk, I will illustrate this paradox with concrete examples and highlight the need to maximize the usability and lifetime of IoT systems, presenting technical solutions that could help in this regard. 
