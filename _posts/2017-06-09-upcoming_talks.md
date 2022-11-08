@@ -5,10 +5,17 @@ date: 2017-06-09 12:00:00 -0500
 ---
 
 
-Samo Grasic - IoT in extreme conditions and DTN
+Samo Grasic - LoRa-DTN: Tailor-made IoT platform for extreme Arctic conditions
 --
 Dec 01, 2022 | 4:00 PM CET
 
+**About Topic:**
+This seminar will engage in the lessons learned from designing, developing and deploying the LoRa-DTN IoT platform. This platform was tailor-made by and for the Sami reindeer herding population in the north of Sweden. Due to the harsh Arctic winter conditions, lack of power and internet infrastructure, remoteness and inaccessible terrains, conventional off-the-shelf IoT solutions were not applicable. Hence, the LoRa-DTN platform was developed in order to provide reindeer herders ability to track their reindeer herds, exchange short messages, use drones as a data relay and monitor the ice thickness on lakes during winter time. The platform is built on a custom hardware and employs LoRa radios and custom-built network protocol based on the Delay Tolerant Network architecture (using Store-And-Forward principle).
+
+**About Speaker:**
+Since 2016, Samo Grasic has worked at Dálvvadis economical association, Jokkmokk, where he designs and develops the Nomatrack LoRa-DTN (Delay Tolerant Network) platform. This platform is tailor-made for reindeer herding purposes in remote Arctic environments. Samo is the member of the The Inter Planetary Networking Special Interest Group and the co-author of the PRoPHET routing protocol (RFC 6693). Samo received his PhD from Luleå University of Technology, in the subject of of Human Work Science, in 2014. Here, focus ison development and deployment of the ICT infrastructure DTN for sparsely populated Arctic regions. Samo’s interests include routing in computer networks, energy harvesting, low power systems, soft, and hardware development as well as embedded systems. Samo is also interested in the social, and economical aspects of ICT deployments. Prior to his academic career, Samo worked for more than six years in the industry, developing hardware and software components for meteorological and radiological systems.
+
+<a href="https://www.youtube.com/c/ComNetsBremen/streams" target="_blank">*Click here to stream*</a>
 
 <!-- ---
 
