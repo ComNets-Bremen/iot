@@ -4,6 +4,19 @@ title: "Past Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
 
+Dirk Pesch | Low Power Wide-Area Wireless Internet of Things with LoRaWAN
+--
+Jan 05, 2023 | 4:00 PM CET
+
+**About Topic:**
+Connectivity, particularly wireless connectivity, is a key enabling technology for the Internet of Things. A plethora of technologies exist, ranging from short-range to long-range and low to medium power options. Recently, long-range, low-power wireless communication technologies have been introduced for both licensed and unlicensed radio spectrum. Unlicensed spectrum technologies such as LoRa/LoRaWAN have become very popular because of their low cost, open standard and open-source software support. However, the current standard has many weaknesses in supporting a vision of dense, wireless IoT device deployment. In this talk, we will briefly review long-range, low-power wireless technologies, review some of the weaknesses of LoRaWAN and present a range of advances that address these weaknesses; in particular, we will focus on medium access fairness, power efficiency and delay performance for both terrestrial and satellite-based smart city and industrial IoT applications.
+
+**About Speaker:**
+Dirk Pesch is a Professor in the School of Computer Science and Information Technology at University College Cork, where he leads research initiatives in the area of future networks, the Internet of Things and Cyber-Physical Systems with applications in smart and connected communities and smart manufacturing. Dirk’s research interests focus on the study, design and performance evaluation of the Internet of Things (IoT) and Cyber-Physical Systems (CPS) and associated communication protocols and system architectures and their applications to smart, energy-efficient and sustainable cities and connected communities as well as smart manufacturing. He is also interested in addressing the interoperability problem of IoT/CPS, which limits the widespread adoption of the technology to many real-world problems and situations. Dirk is the Director of a national doctoral training initiative, the Science Foundation Ireland funded Centre for Research Training in Advanced Networks for Sustainable Societies. He is also a Principal Investigator of the SFI-funded CONNECT Centre for Future Networks and the CONFIRM Centre for Smart Manufacturing. He is an editorial board member of a number of journals and contributes to ACM/IEEE/IFIP conference organization in his area of expertise. Prior to joining academia, Dirk was a design engineer with Nokia in Germany and the UK, developing and implementing communication protocols for a range of cordless telecommunication products. Dirk received a Dipl.Ing. degree from RWTH Aachen University, Germany, and a PhD from the University of Strathclyde, Glasgow, Scotland.
+
+<a href="https://www.youtube.com/watch?v=fEEg56hqpPk&t=1s&ab_channel=ComNetsBremen" target="_blank">*Watch the Seminar*</a>
+
+----
 
 Samo Grasic | LoRa-DTN: Tailor-made IoT platform for extreme Arctic conditions
 --
