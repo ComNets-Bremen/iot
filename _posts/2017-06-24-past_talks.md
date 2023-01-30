@@ -4,7 +4,7 @@ title: "Past Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
 
-Dirk Pesch | Low Power Wide-Area Wireless Internet of Things with LoRaWAN
+Low Power Wide-Area Wireless Internet of Things with LoRaWAN | Dirk Pesch 
 --
 Jan 05, 2023 | 4:00 PM CET
 
@@ -18,7 +18,7 @@ Dirk Pesch is a Professor in the School of Computer Science and Information Tech
 
 ----
 
-Samo Grasic | LoRa-DTN: Tailor-made IoT platform for extreme Arctic conditions
+LoRa-DTN: Tailor-made IoT platform for extreme Arctic conditions | Samo Grasic
 --
 Dec 01, 2022 | 4:00 PM CET
 
@@ -32,7 +32,7 @@ Since 2016, Samo Grasic has worked at Dálvvadis economical association, Jokkmok
 
 ----
 
-Florian Loitsch | Toit, a modern framework for IoT
+Toit, a modern framework for IoT | Florian Loitsch
 --
 Nov 03, 2022 
 
