@@ -4,6 +4,26 @@ title: "Past Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
 
+<h2>Sunlight for wireless communication | Marco Zúñiga</h2>
+<p>Apr 06, 2023 | 4:00 PM CET</p>
+
+<p><strong>About Topic:</strong> 
+    We, humans, already use 50% more energy moving information than moving airplanes around the world. Communication is central to our societies but is taking a toll on the earth.
+
+    We want to use a free, abundant, and natural resource for wireless communication: sunlight. Similar to the way you can use a mirror to communicate by reflecting light, our aim is to change the surfaces of objects to control their reflection properties to send information, but without noticing any flicker!
+    
+    In this manner, objects will be able to talk to each other using daylight, an eco-friendly solution. In this talk, we will present some of our recent work on this exciting area and its potential applications.
+    
+    A world that communicates through natural light. That’s the goal.    
+</p>
+
+<p><strong>About Speaker:</strong> 
+    Dr. Marco Zúñiga is an Associate Professor in the Networked Systems Group at TU Delft. His research interests are in the areas of the Internet of Things, Mobile Computing, and Visible Light Communication. He obtained his Ph.D. and MSc in Electrical Engineering from the University of Southern California, Los Angeles, and his BSc in Electronics Engineering from the Pontificia Universidad Católica del Perú.
+
+    Dr. Zúñiga has more than 60 scientific publications and has received three Best Paper Awards, five Best Paper Runner-ups, and an Accenture Innovation Award in 2017. Two of his publications are the 3rd and 16th most cited papers in the ACM Transactions on Sensor Networks. Dr. Zúñiga has also been invited to present his work on "Sunlight for wireless communication" at the Innovation Expo 2018, a flagship event organized by six Dutch Ministries to showcase Dutch innovation to the world. 
+</p>
+<a href="https://www.youtube.com/live/RclibyNyDX4?feature=share" target="_blank">*Watch the Seminar*</a>
+<hr />
 
 <h2>The IoT and the two sides of Sustainability | Carlo Boano</h2>
 <p>Mar 02, 2023 | 4:00 PM CET</p>
