@@ -4,6 +4,17 @@ title: "Past Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
 
+<h2>Trust Management in Social Internet of Things | Barbora Buhnova</h2>
+<p>May 04, 2023 | 4:00 PM CET</p>
+
+<p><strong>About Topic:</strong> 
+    Digitalization is leading us towards a future where people, processes, data and things are not only interacting with each other, but might start forming societies on their own. In these dynamic systems, converging towards Social Internet of Things (SIoT), trust management on the level of human-to-thing as well as thing-to-thing interaction becomes an essential ingredient to supervise safe and secure progress of our digitalized future. In this talk, we will look into the essential elements of trust management in complex digital ecosystems and SIoT, including trust assessment and its influencing factors (e.g., feeling vulnerable), trust propagation (e.g., via reputation), and trust updates (e.g., via dynamic certification schemes). We will give an overview of the current open discussions about the trust management strategies and discuss their risks and related trust attacks (e.g, self-promotion or whitewashing).
+</p>
+
+<p><strong>About Speaker:</strong> 
+    Barbora Buhnova is an Associate Professor and Vice-Dean at Masaryk University (MU), Faculty of Informatics (FI MU) in Brno, Czech Republic. Following her research career in Germany and Australia, she now leads multiple research teams at Faculty of Informatics MU (software architecture) and Czech CyberCrime Centre of Excellence C4e (critical infrastructures), with special emphasis on trust management in autonomous ecosystems. She is a Steering Committee member of the International Conference on Software Architecture (ICSA) and has been involved in organization of numerous leading conferences (e.g. in OC of ICSE, ESEC-FSE, ASE). She acts as a reviewer and (guest) editor in multiple journals (e.g. IEEE TSE, Springer EMSE, Elsevier SCP, Elsevier JSS, Springer SoSyM, Wiley SME), and is member of the IEEE TSE Review Board. Next to her academic activities, she is the chair of the Association of Industrial Partners at FI MU (with 30+ companies), and is a Co-Founding and Governing Board member of Czechitas, a non-profit organisation aiming at making IT skills more accessible to youth and women (with 30,000+ graduates). 
+</p>
+
 <h2>Sunlight for wireless communication | Marco Zúñiga</h2>
 <p>Apr 06, 2023 | 4:00 PM CET</p>
 
