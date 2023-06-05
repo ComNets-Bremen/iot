@@ -4,6 +4,20 @@ title: "Past Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
 
+<h2>State of LoRaWAN and the IoT Ecosystem | Wienke Giezeman</h2>
+<p>June 01, 2023 | 4:00 PM CET</p>
+
+<p><strong>About Topic:</strong> 
+    Learn about the key trends and innovations that have driven the development of the LoRaWAN ecosystem and learn about the key pillars and challenges of a successful IoT project. In this webinar, we will look into the current state of the LoRaWAN network in 2023 and show real examples of how it is being utilized today across a variety of industries.  
+</p>
+
+<p><strong>About Speaker:</strong> 
+    Wienke Giezeman is the initiator of The Things Network, the first crowdsourced free and open 'Internet of Things'. The network was set up in 6 weeks in Amsterdam, making it the first smart city in the world. Wienke also serves as a CEO at The Things Industries, a LoRaWAN solutions provider. 
+</p>
+<a href="https://www.youtube.com/watch?v=f3fxpsSxQzY" target="_blank">*Watch the Seminar*</a>
+<hr />
+
+
 <h2>Trust Management in Social Internet of Things | Barbora Buhnova</h2>
 <p>May 04, 2023 | 4:00 PM CET</p>
 
@@ -14,6 +28,8 @@ date: 2017-06-09 12:00:00 -0500
 <p><strong>About Speaker:</strong> 
     Barbora Buhnova is an Associate Professor and Vice-Dean at Masaryk University (MU), Faculty of Informatics (FI MU) in Brno, Czech Republic. Following her research career in Germany and Australia, she now leads multiple research teams at Faculty of Informatics MU (software architecture) and Czech CyberCrime Centre of Excellence C4e (critical infrastructures), with special emphasis on trust management in autonomous ecosystems. She is a Steering Committee member of the International Conference on Software Architecture (ICSA) and has been involved in organization of numerous leading conferences (e.g. in OC of ICSE, ESEC-FSE, ASE). She acts as a reviewer and (guest) editor in multiple journals (e.g. IEEE TSE, Springer EMSE, Elsevier SCP, Elsevier JSS, Springer SoSyM, Wiley SME), and is member of the IEEE TSE Review Board. Next to her academic activities, she is the chair of the Association of Industrial Partners at FI MU (with 30+ companies), and is a Co-Founding and Governing Board member of Czechitas, a non-profit organisation aiming at making IT skills more accessible to youth and women (with 30,000+ graduates). 
 </p>
+<a href="https://www.youtube.com/watch?v=o314OO0ux00" target="_blank">*Watch the Seminar*</a>
+<hr />
 
 <h2>Sunlight for wireless communication | Marco Zúñiga</h2>
 <p>Apr 06, 2023 | 4:00 PM CET</p>
