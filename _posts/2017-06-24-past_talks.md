@@ -14,6 +14,8 @@ date: 2017-06-09 12:00:00 -0500
 <p><strong>About Speaker:</strong> 
     Lars Wolf received his Computer Science diploma degree in 1991 from Universität Erlangen-Nürnberg and his Ph.D. in Computer Science in 1995 from TU Chemnitz. From 1991 to 1996 he worked at IBM’s European Network- ing Center in Heidelberg, Germany. From 1996 to 1999 he was with the TU Darmstadt as Assistant Professor ("Wissenschaftlicher Assistent"). Dr. Wolf joined Universität Karlsruhe in 1999 where he was associate professor in the Computer Science department and alternate director of the computer center. Since spring 2002 Lars Wolf is full professor for Computer Science at the TU Braunschweig, where he is head of the Institute of Operating Systems and Computer Networks. His current research interests include wireless networking in general, sensor networks / Internet of Things, vehicular networks, delay-tolerant networks, and mobile systems.  
 </p>
+<a href="https://www.youtube.com/watch?v=fQiPQuHEgwc&t=3s" target="_blank">*Watch the Seminar*</a>
+<hr />
 
 
 <h2>State of LoRaWAN and the IoT Ecosystem | Wienke Giezeman</h2>
