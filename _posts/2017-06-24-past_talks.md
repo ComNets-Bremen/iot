@@ -3,7 +3,7 @@ layout: post
 title: "Past Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
-<h2>On indoor localization: a TinyML-based classification approach | Prof. Diego Méndez Chaves</h2>
+<h2>On indoor localization: a TinyML-based classification approach | Diego Méndez Chaves</h2>
 <p>Aug 03, 2023 | 4:00 PM CET</p>
 
 <p><strong>About Topic:</strong> 
