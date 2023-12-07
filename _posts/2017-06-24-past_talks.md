@@ -4,6 +4,21 @@ title: "Past Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
 
+<h2>IoT in digital agriculture | Nathalie Mitton</h2>
+<p>Dec 07, 2023 | 4:00 PM CET</p>
+
+<p><strong>About Topic:</strong> 
+    Digital technologies are spreading in agriculture as they do in other economic sectors. One of the emerging technologies in agriculture is IoT and among it wireless sensors and drones. Sensors are for instance deployed to monitor the usage of intrants in different fields based on the needs of the crop. But this goes with different challenges. During this talk, we will see what are these challenges and how they could be tackled.
+</p>
+
+<p><strong>About Speaker:</strong> 
+    Nathalie Mitton received the MSc and PhD. degrees in Computer Science from INSA Lyon in 2003 and 2006 respectively. She received her Habilitation à diriger des recherches (HDR) in 2011 from Université Lille 1. She is currently an Inria full researcher since 2006 and from 2012, she is the scientific head of the Inria FUN team. Her research interests focus on self-organization from PHY to routing for wireless constrained dynamic and mobile networks. She has been nominated as one of the 10 women stars in computer Science in 2020 by the IEEE Communication Society. She has published her research in more than 40 international revues and more than 120 international conferences. She coordinates the Horizon Europe SLICES-PP project, participates in different Horizon Europe projects (CyberSANE, NEPHELE) and in several program and organization committees such as Infocom (since 2019), PerCom (since 2018), DCOSS (since 2018). She also supervises several PhD students and engineers.
+        
+</p>
+
+<a href="https://www.youtube.com/watch?v=SHqSq7iQAEU&ab_channel=ComNetsBremen" target="_blank">*Watch the Seminar*</a>
+<hr />
+
 <h2>Connecting Plants and Soil through Low-data-rate Underground Sensing and High-data-rate In-Field Autonomy to Grow More Crop for Drop | Mehmet Can Vuran</h2>
 <p>Oct 05, 2023 | 4:00 PM CET</p>
 
