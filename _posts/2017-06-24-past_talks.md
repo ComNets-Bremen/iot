@@ -4,6 +4,23 @@ title: "Past Seminars"
 date: 2017-06-09 12:00:00 -0500
 ---
 
+<h2>New developments in Satellite LoRa for Science, IoT Applications and
+    Telemetry | Sebastian Büttrich </h2>
+<p>Mar 07, 2024 | 4:00 PM CET</p>
+
+<p><strong>About Topic:</strong> 
+    Converging progress in small satellite technology (Nanosats/Cubesats)
+    and IoT communications protocol LoRa have led to a number of new possibilities in leveraging this combination for scientific and IoT applications, as well as telemetry and operations control. Mostly in - but not limited to - Low Eart Orbit (LEO), LoRa enables small data connectivity at low price and extremely low power even in the most remote locations. Use cases range from agriculture to logistics, commercial to scientific, and from desert to sea to arctic. The talk will give an overview of the current state of the art and
+    expected developments.                    
+</p>
+
+<p><strong>About Speaker:</strong> 
+    Sebastian is a Research Lab Manager at the IT University of Copenhagen, and works with IoT, embedded/pervasive systems, wireles technology, open source / free software and sustainable energy, satellite connectivity, to build networks, systems, skills and capacity. He is also active as Trainer and Developer at Network Startup Research
+    Center (NSRC), helping develop networks for research and education, especially in Asia and Africa, with emphasis on global integration and sustainability. Institutional Member of the LoRa-Alliance, he is active in the Alliance's Regulatory and Satellite LoRa workgroups. Sebastian holds a Ph.D. in quantum physics from the Technical University of Berlin in Germany, with a focus on optics, radio spectroscopy, photovoltaic systems and scientific programming.                   
+</p>
+<a href="https://www.youtube.com/watch?v=UKWA57eRzpA&ab_channel=ComNetsBremen" target="_blank">*Watch the Seminar*</a>
+<hr />
+
 
 <h2>Learning IoT - Roadmap and Challenges | Fredrik Ahlgren</h2>
 <p>Feb 01, 2024 | 4:00 PM CET</p>
