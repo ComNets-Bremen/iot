@@ -18,7 +18,7 @@ date: 2017-06-09 12:00:00 -0500
     Sebastian is a Research Lab Manager at the IT University of Copenhagen, and works with IoT, embedded/pervasive systems, wireles technology, open source / free software and sustainable energy, satellite connectivity, to build networks, systems, skills and capacity. He is also active as Trainer and Developer at Network Startup Research
     Center (NSRC), helping develop networks for research and education, especially in Asia and Africa, with emphasis on global integration and sustainability. Institutional Member of the LoRa-Alliance, he is active in the Alliance's Regulatory and Satellite LoRa workgroups. Sebastian holds a Ph.D. in quantum physics from the Technical University of Berlin in Germany, with a focus on optics, radio spectroscopy, photovoltaic systems and scientific programming.                   
 </p>
-<a href="https://www.youtube.com/watch?v=UKWA57eRzpA&ab_channel=ComNetsBremen" target="_blank">*Watch the Seminar*</a>
+<a href="https://www.youtube.com/watch?v=kjS5eVm6ILY&ab_channel=ComNetsBremen" target="_blank">*Watch the Seminar*</a>
 <hr />
 
 
